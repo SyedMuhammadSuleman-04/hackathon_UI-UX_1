@@ -5,7 +5,6 @@ import { useParams } from "next/navigation";
 import { Button } from "@/components/ui/button";
 import { Check, Minus, Plus } from "lucide-react";
 let star = <FaStar />;
-//  [ key={item.id}<FaStar />, <FaStar />, <FaStar />, <FaStar />, <FaStar />];
 
 interface Iproducts {
   title: string;

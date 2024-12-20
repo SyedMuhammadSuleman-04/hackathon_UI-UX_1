@@ -40,7 +40,6 @@ let product: Iproducts[] = [
   },
 ];
 let star = <FaStar />;
-//  [<FaStar />, <FaStar />, <FaStar />, <FaStar />, <FaStar />];
 
 export default function Top_sell() {
   return (
